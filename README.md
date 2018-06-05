@@ -15,7 +15,7 @@ yarn add -D chin chin-plugin-svgr
 ## Usage
 
 ```js
-import svgr, { merge } from 'chooslr-plugin-svgr'
+import svgr, { merge } from 'chin-plugin-svgr'
 
 const svg2cmp = svgr()
 const svg2cmps = merge()

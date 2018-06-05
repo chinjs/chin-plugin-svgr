@@ -1,6 +1,6 @@
 {
   "name": "chin-plugin-svgr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "kthjm/chin-plugin-svgr",
   "author": "kthjm <toxictoxer@gmail.com>",
   "main": "index.js",
