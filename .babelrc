@@ -1,0 +1,9 @@
+{
+  "presets": ["env"],
+  "env": {
+    "TEST": {
+      "presets": ["power-assert"],
+      "plugins": ["istanbul"]
+    }
+  }
+}

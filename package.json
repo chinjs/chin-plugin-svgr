@@ -1,0 +1,47 @@
+{
+  "name": "chin-plugin-svgr",
+  "version": "0.0.1",
+  "repository": "kthjm/chin-plugin-svgr",
+  "author": "kthjm <toxictoxer@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Chin plugin using svgr.",
+  "keywords": [
+    "chin",
+    "chin-plugin",
+    "svgr",
+    "svg",
+    "react",
+    "component",
+    "merge"
+  ],
+  "nyc": {
+    "sourceMap": false,
+    "instrument": false,
+    "require": [
+      "babel-register"
+    ]
+  },
+  "scripts": {
+    "ex": "chin -c .example -r babel-register",
+    "test": "cross-env BABEL_ENV=TEST nyc mocha",
+    "coverage": "nyc report --reporter=lcov && codecov"
+  },
+  "dependencies": {
+    "svgr": "^1.10.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-istanbul": "^4.1.6",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-power-assert": "^2.0.0",
+    "codecov": "^3.0.1",
+    "cross-env": "^5.1.4",
+    "mocha": "^5.1.1",
+    "nyc": "^11.7.1",
+    "power-assert": "^1.5.0"
+  },
+  "peerDependencies": {
+    "chin": "^3.0.6"
+  }
+}
