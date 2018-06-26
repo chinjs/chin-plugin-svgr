@@ -12,7 +12,7 @@ deploy:
   email: toxictoxer@gmail.com
   on:
     tags: true
-    repo: kthjm/chin-plugin-svgr
+    repo: chinjs/chin-plugin-svgr
     branch: publish
   api_key:
     secure: islMhEZM6DN9Cm/1Lp6k8Fihit4IuaPXozSCfrVj0pwsgPabQZtApH6cDY6BmUR0FSYYHOMPnNwJoVDHZpwNjJOHupUr1HlKvGSrUJeQUK433azFxOTQ1DytJ0W4PwkHv9djIQkfoUDATHCUdX7p2+8dEPfhR9We7e9WNEYQs89+ibVHe9G4IUVEbuRLr+2a6tK6jlkhNHlF+F7d7D3OvM2A2CyNOrB0m9TOJh3GjnAbsYBw/QO5IVykmxz33MDgNPxnRzN6KpBCqFdlfCH0vfR5tawyvJZdqaI5Pus0cHpWiSHuB/WrOtmzBg7jJefhRUF+SoWs/U6f+IVFI/lMza/oOyAqxfv3Dc7gSy+7fRE+SSqvVa1uEmusuuX9VilbDmSSODW6XHBuKhmmpXb5vxamIDAZREEG1pzB/LYj0exxkGZaGrqU7GqU2+uL/+kx/jW6yfgbPA/Io8wX6jZLtqUsCS4C4UGttE3b1lMVfOBwbW1fiLnTD7OvuKuhG+f+PtRJOvprLlP9G2ZgWnUcGvV1FvFDKJqEk9L1KFMw8uKpoGYY9JmNsaZAEuSWcWbOeVVuum/lrZnTw2kQ4MPwjfO26Vrw3Olkp5CuRo8bIJMY0jNRpHyvvGUD0EHWfzDsaJNF1tAL3PAIpa6ndGhVI86sYvNyl6FVT8X/Np90GGc=

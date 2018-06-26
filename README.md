@@ -1,11 +1,11 @@
 # chin-plugin-svgr
 
-[![npm](https://img.shields.io/npm/v/chin-plugin-svgr.svg?style=flat-square)](https://www.npmjs.com/package/chin-plugin-svgr)
-[![npm](https://img.shields.io/npm/dm/chin-plugin-svgr.svg?style=flat-square)](https://www.npmjs.com/package/chin-plugin-svgr)
-[![Build Status](https://img.shields.io/travis/kthjm/chin-plugin-svgr.svg?style=flat-square)](https://travis-ci.org/kthjm/chin-plugin-svgr)
-[![Coverage Status](https://img.shields.io/codecov/c/github/kthjm/chin-plugin-svgr.svg?style=flat-square)](https://codecov.io/github/kthjm/chin-plugin-svgr)
+[![npm](https://img.shields.io/npm/v/chin-plugin-svgr.svg?longCache=true&style=flat-square)](https://www.npmjs.com/package/chin-plugin-svgr)
+[![npm](https://img.shields.io/npm/dm/chin-plugin-svgr.svg?longCache=true&style=flat-square)](https://www.npmjs.com/package/chin-plugin-svgr)
+[![Build Status](https://img.shields.io/travis/chinjs/chin-plugin-svgr.svg?longCache=true&style=flat-square)](https://travis-ci.org/chinjs/chin-plugin-svgr)
+[![Coverage Status](https://img.shields.io/codecov/c/github/chinjs/chin-plugin-svgr.svg?longCache=true&style=flat-square)](https://codecov.io/github/chinjs/chin-plugin-svgr)
 
-[chin](https://github.com/kthjm/chin) plugin using [svgr](https://github.com/smooth-code/svgr/).
+[chin](https://github.com/chinjs/chin) plugin using [svgr](https://github.com/smooth-code/svgr/).
 
 ## Installation
 ```shell
